@@ -1,3 +1,3 @@
 # abdul-mugees
-javascript
+odoo|react|javascript
 
